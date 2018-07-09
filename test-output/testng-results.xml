@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11304" started-at="2018-07-07T03:51:26Z" finished-at="2018-07-07T03:51:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11304" started-at="2018-07-07T03:51:26Z" finished-at="2018-07-07T03:51:38Z">
+      <class name="olympicsMedals.OlympicsMedalsTesting">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:olympicsMedals.OlympicsMedalsTesting@685cb137]" name="setUp" is-config="true" duration-ms="6626" started-at="2018-07-07T03:51:26Z" finished-at="2018-07-07T03:51:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getSum()[pri:0, instance:olympicsMedals.OlympicsMedalsTesting@685cb137]" name="getSum" duration-ms="1475" started-at="2018-07-07T03:51:33Z" finished-at="2018-07-07T03:51:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSum -->
+        <test-method status="PASS" signature="theMost()[pri:0, instance:olympicsMedals.OlympicsMedalsTesting@685cb137]" name="theMost" duration-ms="1661" started-at="2018-07-07T03:51:35Z" finished-at="2018-07-07T03:51:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- theMost -->
+        <test-method status="PASS" signature="sortTest1()[pri:1, instance:olympicsMedals.OlympicsMedalsTesting@685cb137]" name="sortTest1" duration-ms="217" started-at="2018-07-07T03:51:36Z" finished-at="2018-07-07T03:51:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortTest1 -->
+        <test-method status="PASS" signature="sortTest2()[pri:2, instance:olympicsMedals.OlympicsMedalsTesting@685cb137]" name="sortTest2" duration-ms="316" started-at="2018-07-07T03:51:36Z" finished-at="2018-07-07T03:51:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortTest2 -->
+        <test-method status="PASS" signature="country18silver()[pri:3, instance:olympicsMedals.OlympicsMedalsTesting@685cb137]" name="country18silver" duration-ms="251" started-at="2018-07-07T03:51:37Z" finished-at="2018-07-07T03:51:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country18silver -->
+        <test-method status="PASS" signature="testJapan()[pri:4, instance:olympicsMedals.OlympicsMedalsTesting@685cb137]" name="testJapan" duration-ms="384" started-at="2018-07-07T03:51:37Z" finished-at="2018-07-07T03:51:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJapan -->
+        <test-method status="PASS" signature="sortTest3()[pri:5, instance:olympicsMedals.OlympicsMedalsTesting@685cb137]" name="sortTest3" duration-ms="327" started-at="2018-07-07T03:51:37Z" finished-at="2018-07-07T03:51:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortTest3 -->
+      </class> <!-- olympicsMedals.OlympicsMedalsTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
